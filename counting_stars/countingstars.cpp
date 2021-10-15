@@ -34,6 +34,8 @@ void floodFill(int x, int y, vector<string> &territory){
    return;
 }
 
+
+// Flood fill algorithm
 int main(){
    ios::sync_with_stdio(false); cin.tie(NULL);
    //freopen("input.in", "r", stdin);
